@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ergergegehtrh hhihifdasdasfcccccccccccccccccccccccccccccccccccccccccccccccccc
+=======
+index
+An integer between 0 and 1-less-than the length of the string. If the index cannot be converted to the integer or no index is provided, the default is 0, so the first character in the string is returned.
+>>>>>>> fa5136078070239b468a799bb91e9bd783628d12
